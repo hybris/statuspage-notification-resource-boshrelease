@@ -1,0 +1,6 @@
+---
+final_name: statuspage-notification-resource
+blobstore:
+  provider: s3
+  options:
+    bucket_name: blobs-yaas-idefix/statuspage-notification-resource-boshrelease

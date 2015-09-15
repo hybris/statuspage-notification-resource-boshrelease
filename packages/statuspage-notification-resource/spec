@@ -1,0 +1,8 @@
+---
+name: statuspage-notification-resource
+
+dependencies: []
+
+files:
+  - statuspage-notification-resource/rootfs.tar
+  
