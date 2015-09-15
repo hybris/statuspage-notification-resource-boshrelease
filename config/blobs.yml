@@ -1,1 +1,6 @@
---- {}
+---
+statuspage-notification-resource/rootfs.tar:
+  object_id: e9f72e70-8aac-48fd-924a-fa63bb555b60
+  sha: !binary |-
+    ODg1ZTJhYjU3Y2UzMDMwNzg0YmM1NGQwMmU0ZmEyMzYzZjhmZjMzYg==
+  size: 206202880
