@@ -1,5 +1,5 @@
 ---
-name: install
+name: install-statuspage
 
 packages:
   - statuspage-notification-resource
