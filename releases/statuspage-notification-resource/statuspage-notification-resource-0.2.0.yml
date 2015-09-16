@@ -1,0 +1,29 @@
+---
+packages:
+- name: statuspage-notification-resource
+  version: !binary |-
+    M2U2MThhZGFlZWIwMzE1YWQxNDE1OTBlZjIyZjcxMTljMTk2YTBhMg==
+  fingerprint: !binary |-
+    M2U2MThhZGFlZWIwMzE1YWQxNDE1OTBlZjIyZjcxMTljMTk2YTBhMg==
+  sha1: !binary |-
+    YTBlNDhjOTYwMDUyNjM1MjViZmY4NDU5NGJlMWVkOTE3NTJmMTQyZQ==
+  dependencies: []
+jobs:
+- name: install-statuspage
+  version: !binary |-
+    YzZkY2YwYzc1MGE3ZDk4YzFkNjhmNGFkYWNjNGQ1OTA4ODI4NDJkYQ==
+  fingerprint: !binary |-
+    YzZkY2YwYzc1MGE3ZDk4YzFkNjhmNGFkYWNjNGQ1OTA4ODI4NDJkYQ==
+  sha1: !binary |-
+    Y2UyNWI1ZGQyMzFkZmZjYmRlYTJlMGJjZmZmMTIyNDNjYzA1ZDM1NQ==
+license:
+  version: !binary |-
+    NTY5YTQ4MTY2M2Y5NWIxMGNiODAzNTM5YmE2MWE4YzI0YTg4MTQ2Mw==
+  fingerprint: !binary |-
+    NTY5YTQ4MTY2M2Y5NWIxMGNiODAzNTM5YmE2MWE4YzI0YTg4MTQ2Mw==
+  sha1: !binary |-
+    ZmU5NjY1NGRmOWJiYWNjM2MwNDExNTlhZjZkZTRhNDk1NDcxMmQzYg==
+commit_hash: b8716953
+uncommitted_changes: true
+name: statuspage-notification-resource
+version: 0.2.0
