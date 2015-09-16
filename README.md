@@ -38,7 +38,7 @@ jobs:
 - name: worker
   templates:
     ...
-    - {release: statuspage-notification-resource, name: install}
+    - {release: statuspage-notification-resource, name: install-statuspage}
 ```
 
 The final change is to explicitly list all the resource types (they are implicit) and add the `statuspage-notification-resource` package to the list:
